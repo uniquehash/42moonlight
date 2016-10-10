@@ -12,3 +12,6 @@ It is really hard to build and sustain side projects, 42moonlight aims to provid
 
 ## structure and documentation
 here is where documentation and structure
+
+## resource 
+ * slack channel: #moonlight
