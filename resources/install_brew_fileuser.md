@@ -1,5 +1,6 @@
 # Install Brew for File User
 author: Ian Murawski ([helloitsian](https://www.github.com/helloitsian))
+
 Installing Brew Package Manager for the current file user.
 
 ## Steps
