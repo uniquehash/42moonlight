@@ -1,3 +1,2 @@
-Install node using [ nvm ]
-
-[nvm]: <https://github.com/creationix/nvm>
+Install node using nvm
+https://github.com/creationix/nvm
