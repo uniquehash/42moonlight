@@ -11,6 +11,6 @@ Installing Brew Package Manager for the current file user.
 
 1. `cd /Volumes/Storage/goinfre/`
 2. `git clone https://github.com/Homebrew/homebrew.git`
-3. echo "alias brew="/Volumes/Storage/goinfre/homebrew/bin/brew" >> ~/.zshrc
-4. source ~/.zshrc
-5. brew update
+3. `echo "alias brew="/Volumes/Storage/goinfre/homebrew/bin/brew" >> ~/.zshrc`
+4. `source ~/.zshrc`
+5. `brew update`
