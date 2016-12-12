@@ -2,7 +2,7 @@
 
 Prerequisites: Command Line, Git, and Github knowledge (42 students should be fine)
 
-I recommend to do these in order. It's important to understand Ruby fundamentals before diving into web dev frameworks.
+I recommend you do these in order. It's important to understand Ruby fundamentals before diving into web dev frameworks.
 
 ### Ruby
 
