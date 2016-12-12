@@ -1,0 +1,94 @@
+Course Syllabus
+
+
+Class Hours - 7:00 pm to 8:30 pm Mondays (some days will be shorter/longer, but should be roughly this long)
+
+
+Dates - Jan 16th to Mar 27th
+
+
+Textbook -     We will be following the book Algorithms by Sanjoy Dasgupta, Christos Papadimitriou and Umesh Vazirani.
+               The textbook is not required to participate in the class, but contains additional problems and lots of
+               quality pictures, so I recommend it!
+
+               Google and wikipedia are definitely sufficient though (as I'm sure you already know).
+
+Organization - This "class" will be pretty relaxed. I hope to be talking < 50% of the time, with the first few
+               classes probably requiring more as we get into the swing of things.
+
+               I haven't ever taught a course in this way before, so I will likely need your watchful eyes to keep
+               track of time and to help bring us back on track should we get pulled off on a tangent for too long.
+
+               It's also alright if you can't make it every week. I'll not be taking attendance or anything like
+               that. You are expected to do the work necessary to catch up. We won't have time to cover old material
+               during classes.
+
+               I also know that people will be pulled away by other work and not be able to come for a few weeks.
+               If that's the case, you're of course always welcome to come back! If you find it too hard to keep
+               up due to having missed material, feel free to talk to me outside of class and I'll try to point
+               you in the fastest direction to getting back on track.
+
+
+Assignments -  There will be no required assignments. I will post interesting problems both from our textbook and
+               elsewhere for you to work on should you want the additional practice. Some will be coding projects
+               and others will be more math-related.
+
+               Assignments will not be graded (I still have to find some time for 42 work...) but I'd be happy to
+               chat with you about them!
+
+               If you have any ideas for cool projects, feel free to share them in our slack channel or (even better)
+               add them to this repo via a pull request!
+
+
+Expectations - So there are no assignments, does that mean that you don't have to do anything? Of course not!
+               The only way for this course to be successful (and for everybody to learn well) is if we push each
+               other hard.
+
+               I've set an ambitious schedule and I want people to get as much from the course as possible. If this
+               becomes like a course at college - where you just show up and sit there as I talk at you - it will be
+               a pretty awful experience for all of us. I need you to bring enthusiasm and a willingness to learn
+               every week.
+
+               This is exceptionally important because I am not a professor. I am not an expert. I'll be learning much
+               of this material as I prepare for our classes each week. Because of this, my understanding will not be
+               perfect and, should yours be better, you are welcome (i.e. expected) to teach us what you know.
+
+               Luckily, we're at the best school in the world and everybody is here to learn. So I have complete
+               faith that we'll all get a ton out of this course.
+
+
+Weekly Schedule
+
+Jan 16th - Prologue and Chapter 1: Algorithms with numbers
+
+Jan 23rd - Chapter 2: Divide-and-conquer algorithms
+
+Jan 30th - Chapter 3: Decompositions of graphs
+
+Feb 6th - Chapter 4: Paths in graphs
+
+Feb 13th - Chapter 5: Greedy algorithms
+
+Feb 20th - Chapter 6: Dynamic programming
+
+Feb 27th - Chapter 7: Linear programming and reductions
+
+Mar 6th - Chapter 8: NP-complete problems
+
+Mar 13th - Chapter 9: Coping with NP-completeness
+
+Mar 20th - NO CLASS (I'll be gone that day :P)
+
+Mar 27th - Chapter 10: Quantum algorithms
+
+
+Contacting me (please no prank calls or spam emails)
+
+Phone: 503-320-0439
+Email: charliegsummers@gmail.com
+Slack: csummers
+
+
+Thanks to Vlad for helping with filming and video editing! Give him a hug when you see him next.
+
+And I sincerely thank all of you for undertaking this project with me. I hope it will be fun!

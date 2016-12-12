@@ -1,0 +1,68 @@
+A short FAQ that will be extended as questions crop up
+
+
+Q. When will classes start?
+
+A. cat syllabus.txt
+
+
+Q. What time are classes?
+
+A. cat syllabus.txt
+
+
+Q. Where are lecture notes posted?
+
+A. Here on this repo!!
+
+
+Q. Where are videos of the classes posted?
+
+A. https://www.youtube.com/channel/UCorOOMDVMwveNDM87tICW3Q
+
+
+Q. Will this course be focused on the types of problems that you will encounter
+   during a coding interview?
+
+A. Not directly. But, for better or worse, coding interviews (particularly for
+   coveted internships) are tailored to the current collegiate system. And the
+   way to figure out who the best students are of this college system is to ask
+   questions about things like algorithms and data structures.
+
+   Do knowledge of these things result in the best engineers? That's another
+   debate entirely. But, in today's professional software development world, being
+   able to speak the language of algorithms and evaluate solutions mathematically
+   is definitely expected.
+
+   In that way, I hope this course is helpful for all of us. This class of course
+   becomes much much more valuable if you participate actively and do suggested
+   assignments - just sitting and listening probably won't do too much for you!
+
+
+Q. I'm not officially a part of this course, can I come? Or, I have a friend who
+   want to come, can they?
+
+A. I've kind of set a limit for the number of students for this course. I've done
+   so in part to incentivize people to speak up about their interest in the course,
+   but also to see if there would be TOO much interest for just me to handle.
+   At this point, I think we're just about at the cap for the number I can handle.
+
+   That being said, I'm not going to be turning anybody away. So, effectively, all
+   are welcome.
+
+   Of course, if more students show up, the slower the course will go / fewer
+   questions will be able to be addressed / students will be able to contribute
+   less individually. This is definitely true.
+
+   Luckily, nobody will be forced to be here due to grades or anything like that.
+   So, should some students not enjoy the course due to too many people being there,
+   they will stop showing up and we'll have less people again.
+
+   On that note, feel free to slack me at csummers to be officially added to the
+   class slack channel :)
+
+
+Q. Where can I ask more questions?
+
+A. Feel free to slack me at csummers or come to the Moonlight meetings on Wednesdays
+   at 9 pm to ask me in person! Or just, you know, ask me around the lab.
