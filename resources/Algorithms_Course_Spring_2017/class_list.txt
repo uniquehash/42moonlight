@@ -24,7 +24,7 @@ hkalia - Habib Kalia
 mwilliam - Meghan Williams
 mgould - Matthew Gould
 dnelson - Dan Nelson
-adorne - Alexis Dorn
+adorn - Alexis Dorn
 nnguyen - Ngan Nguyen
 kmaitski - Kevin Maitski
 iiliuk - Julia Iliuk
