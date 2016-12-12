@@ -1,10 +1,10 @@
 Course Syllabus
 
 
-Class Hours - 7:00 pm to 8:30 pm Mondays (some days will be shorter/longer, but should be roughly this long)
+Class Hours -  7:00 pm to 8:30 pm Mondays (some days will be shorter/longer, but should be roughly this long)
 
 
-Dates - Jan 16th to Mar 27th
+Dates -        Jan 16th to Mar 27th
 
 
 Textbook -     We will be following the book Algorithms by Sanjoy Dasgupta, Christos Papadimitriou and Umesh Vazirani.
