@@ -10,7 +10,7 @@
 
 	```shell
 	cd /Volumes/Storage/goinfre/$(whoami)
-	git -C homebrew pull || git clone https://github.com/Homebrew/homebrew.git
+	git -C homebrew pull || git clone https://github.com/Homebrew/homebrew.git ; brew update
 	source ~/.zshrc
 	```
 
