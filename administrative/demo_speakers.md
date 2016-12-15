@@ -12,3 +12,4 @@ this system is stupid simple. if you want to demo add yourself to the table belo
 | pmakhija      | pmakhija             | Student Intervention System |                                     |
 | jaleman       | jaleman              | Pokeknow.it (name is a wip) |                                     |
 | hkunduru      | hkunduru             | TAKE ZERO                   |                                     |
+| slee          | slee                 | tradies                     |                                     |
