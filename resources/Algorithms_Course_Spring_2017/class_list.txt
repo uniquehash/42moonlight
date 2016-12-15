@@ -24,7 +24,6 @@ hkalia - Habib Kalia
 mwilliam - Meghan Williams
 mgould - Matthew Gould
 dnelson - Dan Nelson
-adorn - Alexis Dorn
 nnguyen - Kay Nguyen
 kmaitski - Kevin Maitski
 iiliuk - Julia Iliuk
@@ -32,3 +31,7 @@ bburnley - Brian Burnley
 myoung - Mason Young
 zbeasley - Zach Beasley
 lgutniko - Liliia Gutnikova
+hkunduru - Hanu Kanduru
+tjose - Tim Jose
+rle - Ryan Le
+yli - Yixin Li
