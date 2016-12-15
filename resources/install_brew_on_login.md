@@ -9,8 +9,8 @@
 4. Copy & Paste the following to the script:
 
 	```shell
-	cd /Volumes/Storage/goinfre/mfernand
-	git -C brew pull || git clone git@github.com:Homebrew/brew.git
+	cd /Volumes/Storage/goinfre/$(whoami)
+	git -C homebrew pull || git clone https://github.com/Homebrew/homebrew.git
 	source ~/.zshrc
 	```
 
