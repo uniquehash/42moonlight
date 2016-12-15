@@ -22,7 +22,8 @@ Installing Nodejs for the current file user.
         mkdir ~/.nvm
 5. Link your nvm directory
 
-        echo 'export NVM_DIR="$HOME/.nvm"\n. "/Volumes/Storage/goinfre/homebrew/opt/nvm/nvm.sh"' >> ~/.zshrc
+        echo 'export NVM_DIR="$HOME/.nvm"' >> ~/.zshrc
+        echo 'source $(brew --prefix nvm)/nvm.sh' >> ~/.zshrc
 6. Refresh your .zshrc
         
         source ~/.zshrc
