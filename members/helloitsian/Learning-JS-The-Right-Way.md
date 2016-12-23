@@ -15,6 +15,8 @@ ript code. After confidently learning JavaScript I will also be compiling all my
 
 #Things I've used
 JavaScript30 (30 Day Course): [www.javascript30.com](www.javascript30.com)
+
 FreeCodeCamp: [www.freecodecamp.com](www.freecodecamp.com)
+
 Eloquent JavaScript (Book): [http://eloquentjavascript.net/](http://eloquentjavascript.net/)
 
