@@ -6,7 +6,7 @@ this system is stupid simple. if you want to demo add yourself to the table belo
 #### demo speakers table
 
 | login (yours) | slack handle (yours) | project to demo                 | type of plug for AV | scheduled date to speak |
-| ------------- | -------------------- | ------------------------------- | :-----------------: | ----------------------- |
+| :-----------: | :------------------: | ------------------------------- | :-----------------: | :---------------------: |
 | jaleman       | jaleman              | Ubicate                         | VGA                 | 11-30-2016              |
 | slee          | slee                 | tradies                         | thunderbolt         | 12-14-2016              |
 | pmakhija      | pmakhija             | Student Intervention System     | USB-C               | 12-21-2016              |
