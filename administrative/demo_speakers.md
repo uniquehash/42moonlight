@@ -13,3 +13,4 @@ this system is stupid simple. if you want to demo add yourself to the table belo
 | hkunduru      | hkunduru             | TAKE ZERO                       |                     |                         |
 | slee          | slee                 | tradies                         |                     |                         |
 | jaleman       | jaleman              | pokeknow.it (name is a wip)     | VGA                 |                         |
+| epinchon      | etienne              | MagiXJS (https://magixjs.com)   | HDMI or thunderbolt | 12-28-2016              |
