@@ -12,5 +12,5 @@ this system is stupid simple. if you want to demo add yourself to the table belo
 | pmakhija      | pmakhija             | Student Intervention System     | USB-C               | 12-21-2016              |
 | hkunduru      | hkunduru             | TAKE ZERO                       |                     |                         |
 | slee          | slee                 | tradies                         |                     |                         |
-| jaleman       | jaleman              | pokeknow.it (name is a wip)     | VGA                 |                         |
+| jaleman       | jaleman              | Ubicate                         | VGA                 | 01-04-2017              |
 | epinchon      | etienne              | MagiXJS (https://magixjs.com)   | HDMI or thunderbolt | 12-28-2016              |
