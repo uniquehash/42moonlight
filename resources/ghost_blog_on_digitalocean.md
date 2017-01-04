@@ -19,7 +19,7 @@
 First of all, if you haven't already, go sign up for the [Github Student Developer Pack](https://education.github.com/pack). All you need to do is provide your student email (`[uid]@student.42.us.org` for US, `[uid]@student.42.fr` for FR). This pack gives you a wealth of programming goodies, but our main interest is in the $50 of Digital Ocean hosting credit, that's about 10 months of _free_ hosting!
 
 ###Setting up your server
-Once you've got yourself registered with Digital Ocean and you've got your $50 of credit burning a hole in your virtual pocket, go ahead and spin up your first droplet.
+Once you've got yourself registered with Digital Ocean and you've got your $50 of credit burning a hole in your virtual pocket, let's go ahead and spin up your first droplet.
 
 <center><img src="https://drive.google.com/uc?export=view&id=0B0ly51VynR0nTVdiRVlCNkhtWDA" alt="recommended options" width=50%></src></center>
 
@@ -27,7 +27,7 @@ _<center>I recommend the above settings as you can always upgrade later.</center
 
 Select your version of Ubuntu and the size of your droplet, then select the datacenter region. I'm sure this goes without saying but, closer is better. I would also recommend taking a few moments to set up SSH keys with your droplet and Digital Ocean. Finally, give your droplet an identifying name.
 
-At this point if you have a domain name, you may want to get set up a host name with Digital Ocean. To do so, follow this [handy tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean).
+At this point if you have a domain name, you may want to set up a host name with Digital Ocean. To do so, follow this [handy tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean).
 
 Now begins the fun part. Open up your trusty terminal and start a ssh session with your droplet's IP address using the following command
 
