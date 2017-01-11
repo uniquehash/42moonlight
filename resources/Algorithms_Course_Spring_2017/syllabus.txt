@@ -75,9 +75,9 @@ Feb 27th - Chapter 7: Linear programming and reductions
 
 Mar 6th - Chapter 8: NP-complete problems
 
-Mar 13th - Chapter 9: Coping with NP-completeness
+Mar 13th - NO CLASS (I'll be gone that day :P)
 
-Mar 20th - NO CLASS (I'll be gone that day :P)
+Mar 20th - Chapter 9: Coping with NP-completeness
 
 Mar 27th - Chapter 10: Quantum algorithms
 
