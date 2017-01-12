@@ -39,3 +39,4 @@ mhurd - Matt Hurd
 pmakhija - Piyush Makhija
 kromain - Keenan Romain
 mroen - Max Roen
+azimina - Nastya Zimina
