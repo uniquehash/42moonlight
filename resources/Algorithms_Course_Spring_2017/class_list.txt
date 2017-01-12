@@ -37,3 +37,5 @@ rle - Ryan Le
 yli - Yixin Li
 mhurd - Matt Hurd
 pmakhija - Piyush Makhija
+kromain - Keenan Romain
+mroen - Max Roen
