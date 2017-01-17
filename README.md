@@ -1,20 +1,37 @@
-# 42moonlight
-side projects galore 
+# 42 Moonlight - Side Projects Galore! 
 
-## what is 42moonlight
+## What is 42 Moonlight?
+
 A community for 42 students to talk about, contribute to, and support one other building side projects.
 
-## why build 42moonlight
-It is really hard to build and sustain side projects, 42moonlight aims to provide a community for people to support one another at 42 while working on their personal and communal projects.
+## Why Build 42 Moonlight?
+
+It is difficult to build and sustain side projects.
+
+42 Moonlight aims to provide a community for support while working on their personal and communal projects.
 
 ## Goal for project
-The goal is to have people coming and shipping products on a regular basis. Working together, building together, shipping together.
 
-## assumptions 
-* having a community around this purpose will increase the ability and probability of people shipping their personal projects
+The goal is to have participants shipping products on a regular basis.
 
-## structure and documentation
-here is where documentation and structure
+Working together, building together, shipping together.
 
-## resource 
- * slack channel: #moonlight
+## Assumptions 
+
+Having a community for this purpose will increase:
+
+* The probability of participants shipping their projects.
+* The abilities of participants to present their projects.
+
+## Structure and documentation
+
+TODO -- documentation and structure guidelines
+
+Ask an active member for rights on [this repo](https://github.com/all-hack/42moonlight), contribute what you can.
+
+## Resource 
+ * 42 School USA Slack Channel: [#moonlight](https://42schoolusa.slack.com/messages/moonlight/)
+
+#### Special Thanks to [all-hack](https://github.com/all-hack) for setting this up!
+
+TODO -- List of active members, links to presentations.
