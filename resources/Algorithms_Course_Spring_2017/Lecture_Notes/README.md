@@ -2,7 +2,7 @@ Lecture note subjects:
 ----------------------
 ----------------------
 
-Day 00 - Prologue and Algorithms with numbers
+Day 00 - [Prologue and Algorithms with numbers](https://docs.google.com/presentation/d/1V2KbO9IdDtzs0sMqoiz7ITJtAusQHJGWoSbDz19jY-s/edit?usp=sharing)
 
 Day 01 - Divide-and-conquer algorithms
 
