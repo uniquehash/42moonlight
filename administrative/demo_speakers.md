@@ -10,7 +10,7 @@ The admin, whoever that may be, will contact you and coordinate.
 
 | Login (yours) | Slack handle (yours) | Project to demo                 | Type of plug for AV | Scheduled date to speak |
 | :-----------: | :------------------: | ------------------------------- | :-----------------: | :---------------------: |
-| hkunduru      | hkunduru             | TAKE ZERO                       | thunderbolt         | 01-04-2017              |
+| hkunduru      | hkunduru             | TAKE ZERO                       | thunderbolt         | 01-11-2017              |
 | jaleman       | jaleman              | Ubicate                         | VGA                 | 01-04-2017              |
 | jaleman       | jaleman              | Ubicate                         | VGA                 | 11-30-2016              |
 | slee          | slee                 | tradies                         | thunderbolt         | 12-14-2016              |
