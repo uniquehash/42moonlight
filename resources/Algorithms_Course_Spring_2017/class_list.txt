@@ -53,3 +53,4 @@ whickey - Wade Hickey
 marahimi - Majid Rahimi
 yherrera - Yangyang Herrera
 bpezehsk - Braden Pezeshki
+irhett - Isaac Rhett
