@@ -2,4 +2,4 @@ All video links are posted here
 -------------------------------
 -------------------------------
 
-error 404 - class not started yet
+[Day 00](https://www.youtube.com/watch?v=iGKLsqjyMd0&feature=youtu.be)
