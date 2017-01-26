@@ -4,7 +4,6 @@ A good demo is really hard to do. It's a skill that is developed over time and p
 
 The patterns below are examples, you are encouraged to explore different patterns and add new ones to this documet. , ideally these would simply be a starting point in your development :).
 
----
 
 ## The Show and Tell
 * start on your landing page
