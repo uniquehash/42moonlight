@@ -3,7 +3,7 @@
 A good demo is really hard to do. It's a skill that is developed over time and practice. One of the reasons for 42Moonlight is to give everyone the opportunity to practice this skill. This resource is focused on the actual structure of the demo, or the demo pattern if you prefer. 
 
 The patterns below are examples, you are encouraged to explore different patterns and add new ones to this documet. , ideally these would simply be a starting point in your development :).
-\s\s
+
 
 ### The Show and Tell
 * start on your landing page
