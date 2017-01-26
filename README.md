@@ -29,8 +29,9 @@ TODO -- documentation and structure guidelines
 
 Ask an active member for rights on [this repo](https://github.com/all-hack/42moonlight), contribute what you can.
 
-## Resource 
+## Resources
  * 42 School USA Slack Channel: [#moonlight](https://42schoolusa.slack.com/messages/moonlight/)
+ * Youtube Channel: [42 Moonlight](https://www.youtube.com/channel/UCorOOMDVMwveNDM87tICW3Q)
 
 #### Special Thanks to [all-hack](https://github.com/all-hack) for setting this up!
 
