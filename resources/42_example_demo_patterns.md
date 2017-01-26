@@ -5,7 +5,7 @@ A good demo is really hard to do. It's a skill that is developed over time and p
 The patterns below are examples, you are encouraged to explore different patterns and add new ones to this documet. , ideally these would simply be a starting point in your development :).
 
 
-## The Show and Tell
+### The Show and Tell
 * start on your landing page
 * introduce yourself
 * give the back story of the product
@@ -20,7 +20,7 @@ The patterns below are examples, you are encouraged to explore different pattern
 
 
 
-## The Power Point
+### The Power Point
 * start on the first slide of your slide show
 * introduce yourself 
 * go through your slides
