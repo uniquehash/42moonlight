@@ -19,6 +19,8 @@ The patterns below are examples, you are encouraged to explore different pattern
   * the important part is that it is cohesive, try to build a story with why your going through the screens
 * wrap up with a conclusion of some sorts
 
+
+
 #### the power point
 * start on the first slide of your slide show
 * introduce yourself 
