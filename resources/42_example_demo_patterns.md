@@ -6,7 +6,7 @@ The patterns below are examples, you are encouraged to explore different pattern
 
 ---
 
-#### the show and tell
+## The Show and Tell
 * start on your landing page
 * introduce yourself
 * give the back story of the product
@@ -21,7 +21,7 @@ The patterns below are examples, you are encouraged to explore different pattern
 
 
 
-#### the power point
+## The Power Point
 * start on the first slide of your slide show
 * introduce yourself 
 * go through your slides
