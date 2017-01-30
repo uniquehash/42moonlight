@@ -14,9 +14,10 @@ ding of the language, to build better habits, and be confident in writing JavaSc
 ript code. After confidently learning JavaScript I will also be compiling all my resources used and projects made into a lesson plan for others to follow to learn the language.
 
 ##Things I've used
-JavaScript30 (30 Day Course): [www.javascript30.com](www.javascript30.com)
+JavaScript30 (30 Day Course): [javascript30.com](www.javascript30.com)
 
-FreeCodeCamp: [www.freecodecamp.com](www.freecodecamp.com)
+FreeCodeCamp: [www.freecodecamp.com](http://www.freecodecamp.com)
 
-Eloquent JavaScript (Book): [http://eloquentjavascript.net/](http://eloquentjavascript.net/)
+Eloquent JavaScript (Book): [eloquentjavascript.net/](http://eloquentjavascript.net/)
 
+JavaScript is Sexy: [javascriptissexy.com](http://javascriptissexy.com)
