@@ -6,7 +6,7 @@ Day 00 - [Prologue and Algorithms with numbers](https://docs.google.com/presenta
 
 Day 01 - [Divide-and-conquer algorithms](https://docs.google.com/presentation/d/1mviSsK_wBD-hldNeI_KHysepVeNXdYLY0X_HL1Nc2BM/edit?usp=sharing)
 
-Day 02 - Decompositions of graphs
+Day 02 - [Decompositions of graphs](https://docs.google.com/presentation/d/18KEDFrUtT2RjH8Zf5sdV-Ku1U8I1-VhueUdl6egizkQ/edit?usp=sharing)
 
 Day 03 - Paths in graphs
 
