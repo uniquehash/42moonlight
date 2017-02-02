@@ -54,3 +54,7 @@ marahimi - Majid Rahimi
 yherrera - Yangyang Herrera
 bpezehsk - Braden Pezeshki
 irhett - Isaac Rhett
+eliu - Ezekiel Liu
+wasman - Torrey Asman
+ppatil - Prateek Patil
+tpan - Thomas Pan
