@@ -7,3 +7,5 @@ All video links are posted here
 [Day 01](https://www.youtube.com/watch?v=w5CwBsgRCyw)
 
 [Day 02](https://www.youtube.com/watch?v=DnAzPIMpvw0)
+
+[Day 03](https://www.youtube.com/watch?v=wkQYUITVFVI&feature=youtu.be)
