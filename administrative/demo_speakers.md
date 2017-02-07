@@ -17,5 +17,6 @@ The admin, whoever that may be, will contact you and coordinate.
 | jaleman       | Ubicate                         | VGA                 | 11-30-2016              |
 | pmakhija      | Student Intervention System     | USB-C               | 12-21-2016              |
 | epinchon      | MagiXJS (https://magixjs.com)   | HDMI or thunderbolt | 12-28-2016              |
+| hkalia        | Dynamic Array Library in C      | thunderbolt         | 2-7-2017                |
 
 #### Todo - past demos / format table and remove slack handle column
