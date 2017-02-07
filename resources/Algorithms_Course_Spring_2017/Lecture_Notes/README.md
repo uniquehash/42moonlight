@@ -8,7 +8,7 @@ Day 01 - [Divide-and-conquer algorithms](https://docs.google.com/presentation/d/
 
 Day 02 - [Decompositions of graphs](https://docs.google.com/presentation/d/18KEDFrUtT2RjH8Zf5sdV-Ku1U8I1-VhueUdl6egizkQ/edit?usp=sharing)
 
-Day 03 - Paths in graphs
+Day 03 - [Paths in graphs](https://docs.google.com/presentation/d/1huX1BkcAbzKjbGMzHpWGfaDpt8aHky5kDqCSztVlQqg/edit?usp=sharing)
 
 Day 04 - Greedy algorithms
 
