@@ -8,8 +8,10 @@ The admin, whoever that may be, will contact you and coordinate.
 
 #### demo speakers table
 
-| Login (yours) | Project to demo                 | Type of plug for AV | Scheduled date to speak |
+| Login (yours) | Project to demo                 | Type of plug for AV | Scheduled date to demo  |
 | :-----------: | ------------------------------- | :-----------------: | :---------------------: |
+| hkalia        | Dynamic Array Library in C      | thunderbolt         | 02-08-2017              |
+| obelange      | hackathon event videos          | thunderbolt         | 02-01-2017              |
 | mgould        | 42 cliff notes                  | Thunderbolt         | 01-25-2016              |
 | slee          | tradies                         | thunderbolt         | 01-18-2016              |
 | hkunduru      | TAKE ZERO                       | thunderbolt         | 01-11-2017              |
@@ -17,6 +19,6 @@ The admin, whoever that may be, will contact you and coordinate.
 | jaleman       | Ubicate                         | VGA                 | 11-30-2016              |
 | pmakhija      | Student Intervention System     | USB-C               | 12-21-2016              |
 | epinchon      | MagiXJS (https://magixjs.com)   | HDMI or thunderbolt | 12-28-2016              |
-| hkalia        | Dynamic Array Library in C      | thunderbolt         | 2-7-2017                |
+
 
 #### Todo - past demos / format table and remove slack handle column
