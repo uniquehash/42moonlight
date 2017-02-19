@@ -1,0 +1,3 @@
+[submodule "members/hkalia/libarr"]
+	path = members/hkalia/libarr
+	url = https://github.com/hkalia/libarr.git
