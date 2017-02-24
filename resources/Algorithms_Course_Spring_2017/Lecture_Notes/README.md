@@ -10,9 +10,9 @@ Day 02 - [Decompositions of graphs](https://docs.google.com/presentation/d/18KED
 
 Day 03 - [Paths in graphs](https://docs.google.com/presentation/d/1huX1BkcAbzKjbGMzHpWGfaDpt8aHky5kDqCSztVlQqg/edit?usp=sharing)
 
-Day 04 - Greedy algorithms
+Day 04 - [Greedy algorithms](https://docs.google.com/presentation/d/12N8leHLGuWSPYcdQlFUdjcXjm5rl0oIoWvPM_KMTU4c/edit?usp=sharing)
 
-Day 05 - Dynamic programming
+Day 05 - [Dynamic programming](https://docs.google.com/presentation/d/13Y4Z5RVfHEE7rh1cOF14EYILA1TKN00YIkZYdgaYyh0/edit?usp=sharing)
 
 Day 06 - Linear programming and reductions
 
