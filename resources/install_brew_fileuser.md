@@ -8,8 +8,7 @@ Installing Brew Package Manager for the current file user.
 ## Steps
 
 ```BASH
-cd /Volumes/Storage/goinfre/$(whoami)
-git clone https://github.com/Homebrew/homebrew.git
+git clone https://github.com/Homebrew/homebrew.git /Volumes/Storage/goinfre/$(whoami)/homebrew
 echo 'alias brew="/Volumes/Storage/goinfre/$(whoami)/homebrew/bin/brew"' >> ~/.zshrc
 source ~/.zshrc
 brew update
