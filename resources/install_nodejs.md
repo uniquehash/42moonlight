@@ -12,4 +12,4 @@ Installing Nodejs for the current file user.
 
 3a. Follow instructions for installing nodejs
 
-4 Make sure you have your ~/.zshrc updated so that your environment will follow you around
+4. Make sure you have your ~/.zshrc updated so that your environment will follow you around
