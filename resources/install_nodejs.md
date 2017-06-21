@@ -7,7 +7,7 @@ Installing Nodejs for the current file user.
 1. First, make sure you have [brew installed](https://github.com/all-hack/42moonlight/blob/master/resources/install_brew_fileuser.md)
 
 2. Make sure you have `coreutils` and `gpg`
-`brew install coreutils gpg`
+  `brew install coreutils gpg`
 
 3. Install asdf from https://github.com/asdf-vm/asdf
 
